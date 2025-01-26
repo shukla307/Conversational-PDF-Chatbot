@@ -1,11 +1,9 @@
-# Conversational-PDF-Chatbot
+# Conversational-Chatbot
 
 This project implements a conversational PDF chatbot using FastAPI and Large Language Model (LLM) APIs. It allows users to upload PDF files and chat with the contents using natural language queries.
 
 ## Features
 
-- PDF file upload
-- Conversational interface for querying PDF contents
 - Integration with OpenAI / HuggingFace / Groq LLM APIs
 - Retrieval Augmented Generation (RAG) for enhanced responses
 - FastAPI backend for efficient API handling
